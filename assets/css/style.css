@@ -25,3 +25,56 @@ main {
   height: 500px;
   width: 100%;
 }
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-center: center;
+  height: 600px;
+  width: 50%;
+  margin-right: 300px;
+}
+
+.answerContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.description {
+  display: flex;
+  justify-items: center;
+  text-align: center;
+  line-height: 1;
+  font-weight: bold;
+  border-top: solid 2px black;
+  border-bottom: solid 2px black;
+  padding: 5px 0px;
+  width: auto;
+}
+
+button {
+  display:inline-block;
+  width: fit-content;
+  margin: 10px 10px;
+  font-size: 24px;
+  background-color: rgba(128, 0, 128, 0.831);
+  color: white;
+}
+
+button:hover {
+  opacity: 75%;
+  cursor: pointer;
+  font-size: 26px;
+}
