@@ -64,7 +64,6 @@ function startQuiz (){
   
 }
 
-
 // Countdown
 function timerCountdown() {
   timerInterval = setInterval(function() {
@@ -170,7 +169,7 @@ function changeForm (){
   submitB.setAttribute ("style", "margin: 0px 10px; font-size: 24px; background-color: purple; color: white");
 }
 
-// View High Scores Menu //
+// Function to view high score //
 function viewHighScores (){
   
   // Removing from HTML //
