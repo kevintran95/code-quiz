@@ -12,3 +12,4 @@ Code quiz application made using HTMl, CSS, and Javascript. When users click the
 https://kevintran95.github.io/code-quiz/
 
 ## Screenshot
+<img width="1434" alt="Screen Shot 2021-10-25 at 8 43 53 PM" src="https://user-images.githubusercontent.com/87213793/138807200-ef0d4c09-0b9e-4713-b439-0a5c7baae879.png">
